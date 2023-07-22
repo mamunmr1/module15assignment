@@ -1,6 +1,6 @@
-export function TodoItem({completed, id, title, toggleTodo, 
+export function TodoItem( {completed, id, title, toggleTodo, 
   
-  deleteTodo}) {
+  deleteTodo }) {
 
   return (
 
